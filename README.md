@@ -86,13 +86,11 @@ Configured services include:
 
 ```text
 .
-├── Computer Networks Project.pkt
-├── Computer Networks Report.pdf
-├── VLSM Documentation.pdf
+├── main.pkt
+├── Report.pdf
 ├── README.md
 ```
 
-*(Repository structure may vary depending on uploaded files.)*
 
 ---
 
